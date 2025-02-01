@@ -1,0 +1,1 @@
+# All_Document_to_text_mongoDB
